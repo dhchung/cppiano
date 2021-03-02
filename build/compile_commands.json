@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dongha/dev/cppiano/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -I/home/dongha/dev/cppiano/include  -O2 -g -DNDEBUG   -o CMakeFiles/cppiano.dir/src/main.cpp.o -c /home/dongha/dev/cppiano/src/main.cpp",
+  "file": "/home/dongha/dev/cppiano/src/main.cpp"
+}
+]
