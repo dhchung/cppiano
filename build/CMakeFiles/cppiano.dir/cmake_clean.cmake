@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cppiano.dir/src/main.cpp.o"
+  "CMakeFiles/cppiano.dir/src/main.cpp.o.d"
   "cppiano"
   "cppiano.pdb"
 )

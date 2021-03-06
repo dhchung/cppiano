@@ -49,7 +49,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-O2 -g -DNDEBUG  "
+					"fragment" : "-O2 -g -DNDEBUG"
 				}
 			],
 			"defines" : 

@@ -17,11 +17,12 @@ set(CMAKE_C_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "/bin/ar")
-set(CMAKE_C_COMPILER_AR "/bin/gcc-ar-9")
-set(CMAKE_RANLIB "/bin/ranlib")
-set(CMAKE_C_COMPILER_RANLIB "/bin/gcc-ranlib-9")
-set(CMAKE_LINKER "/bin/ld")
+
+set(CMAKE_AR "/bin/x86_64-linux-gnu-ar")
+set(CMAKE_C_COMPILER_AR "/bin/x86_64-linux-gnu-gcc-ar-9")
+set(CMAKE_RANLIB "/bin/x86_64-linux-gnu-ranlib")
+set(CMAKE_C_COMPILER_RANLIB "/bin/x86_64-linux-gnu-gcc-ranlib-9")
+set(CMAKE_LINKER "/bin/x86_64-linux-gnu-ld")
 set(CMAKE_MT "")
 set(CMAKE_COMPILER_IS_GNUCC 1)
 set(CMAKE_C_COMPILER_LOADED 1)
@@ -47,6 +48,7 @@ set(CMAKE_C_LINKER_PREFERENCE 10)
 # Save compiler ABI information.
 set(CMAKE_C_SIZEOF_DATA_PTR "8")
 set(CMAKE_C_COMPILER_ABI "ELF")
+set(CMAKE_C_BYTE_ORDER "LITTLE_ENDIAN")
 set(CMAKE_C_LIBRARY_ARCHITECTURE "x86_64-linux-gnu")
 
 if(CMAKE_C_SIZEOF_DATA_PTR)

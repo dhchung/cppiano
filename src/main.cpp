@@ -1,5 +1,7 @@
 #include <iostream>
 #include <boost/thread.hpp>
+#include <X11/keysym.h>
+#include <X11/Xlib.h>
 
 using namespace std;
 

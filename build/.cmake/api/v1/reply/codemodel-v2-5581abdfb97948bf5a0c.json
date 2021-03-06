@@ -38,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "cppiano::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cppiano-RelWithDebInfo-e19180fa00278fc2d772.json",
+					"jsonFile" : "target-cppiano-RelWithDebInfo-91a01e07939965e63c34.json",
 					"name" : "cppiano",
 					"projectIndex" : 0
 				}
@@ -54,6 +54,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 0
+		"minor" : 2
 	}
 }
