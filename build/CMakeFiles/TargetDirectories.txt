@@ -1,3 +1,0 @@
-/home/dongha/dev/cppiano/build/CMakeFiles/rebuild_cache.dir
-/home/dongha/dev/cppiano/build/CMakeFiles/edit_cache.dir
-/home/dongha/dev/cppiano/build/CMakeFiles/cppiano.dir
